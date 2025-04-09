@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day-2/100 Days of SwiftUI - Day 2.md",
+                "file": "day-3/Day 3 - Arrays, Dictionaries, Sets & Enums.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "100 Days of SwiftUI - Day 2"
+              "title": "Day 3 - Arrays, Dictionaries, Sets & Enums"
             }
           }
         ]
@@ -170,7 +170,9 @@
   },
   "active": "eb79534e61d6a412",
   "lastOpenFiles": [
-    "day-1/100 Days of SwiftUI - Day 1.md",
-    "day-2/100 Days of SwiftUI - Day 2.md"
+    "day-2/100 Days of SwiftUI - Day 2.md",
+    "day-3/Day 3 - Arrays, Dictionaries, Sets & Enums.md",
+    "day-3",
+    "day-1/100 Days of SwiftUI - Day 1.md"
   ]
 }
