@@ -33,7 +33,7 @@ print("Name: \(firstName) \(lastName)")
 
 * By forcing us to name parameters and use those names when calling a function, Swift makes it easy to overload functions. For example, this is valid swift code:
 ```swift
-// Swift knows which function we want to call based on the parameters we provide
+// Swift knows which function we want to call based on the parameters we provide when we call it
 func hireEmployee(name: String) { }
 func hireEmployee(title: String) { }
 func hireEmployee(location: String) { }
@@ -47,7 +47,7 @@ func isUppercase(_ string: String) -> Bool {
 }
 
 let string = "HELLO, WORLD"
-let result = isUppercase(string) // Without our _ we would have to call this as isUppercase(string: string)
+let result = isUppercase(string) // Without the _  in our func signature we would have to call this as isUppercase(string: string)
 ```
 * Swift also lets you add a 2nd label in place of `_` which can be used as the parameter label when calling the function. 
 ```swift

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day-7/Day 7 - Functions.md",
+                "file": "day-8/Day 8 - Functions Cont..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 7 - Functions"
+              "title": "Day 8 - Functions Cont."
             }
           }
         ],
@@ -199,8 +199,10 @@
   },
   "active": "b8357cbd2dc562ac",
   "lastOpenFiles": [
-    "day-5/Day 5 - Conditionals.md",
     "day-7/Day 7 - Functions.md",
+    "day-8/Day 8 - Functions Cont..md",
+    "day-8",
+    "day-5/Day 5 - Conditionals.md",
     "day-7",
     "day-6/Day 6 - Loops.md",
     "day-6/Checkpoint3.playground/playground.xcworkspace/xcuserdata/dillonbordeleau.xcuserdatad/UserInterfaceState.xcuserstate",
@@ -211,7 +213,6 @@
     "day-6/Checkpoint3.playground/contents.xcplayground",
     "day-6/Checkpoint3.playground/Contents.swift",
     "day-6/Checkpoint3.playground",
-    "day-6",
     "day-1/100 Days of SwiftUI - Day 1.md",
     "day-3/Day 3 - Arrays, Dictionaries, Sets & Enums.md",
     "day-2/100 Days of SwiftUI - Day 2.md"
